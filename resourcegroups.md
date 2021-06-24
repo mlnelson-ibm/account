@@ -51,7 +51,7 @@ Connections between a resource group and a Cloud Foundry org or space are restri
 1. In the console, go to **Manage** > **Account** > **Account resources** > **Resource groups**.
 2. Click **Create**.
 3. Enter a name for your resource group. 
-4. Click **Add**.
+4. Click **Create**.
 
 ### Creating a resource group by using the CLI
 {: #rgs_cli}
